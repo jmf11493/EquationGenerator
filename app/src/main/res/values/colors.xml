@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="toolbarColor">#0028a0</color>
+    <color name="mathViewBackground">#ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="spinnerTextColor">#000000</color>
+    <color name="statusBarColor">#000000</color>
+</resources>

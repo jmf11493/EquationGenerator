@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mathy Math</string>
+    <string name="generate">Generate</string>
+    <string name="problem_type">Type of Problem:</string>
+    <string name="sequence_type">Type of Sequence:</string>
+    <string name="answer">Show Answer</string>
+
+    <string-array name="equationSelection">
+        <item>Equation Generator</item>
+        <item>Exponential Problem Generator</item>
+        <item>Function Features Problem Generator</item>
+        <item>Integer Operations Problem Generator</item>
+        <item>Linear Problem Generator</item>
+        <item>Polynomial Problem Generator</item>
+        <item>Pythagorean Theorem Problem Generator</item>
+        <item>Quadratic Equations</item>
+        <item>Sequences Problem Generator</item>
+        <item>Statistics Problem Generator</item>
+        <item>Systems of Equations Generator</item>
+    </string-array>
+</resources>
